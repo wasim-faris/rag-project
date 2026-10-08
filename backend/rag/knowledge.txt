@@ -1,0 +1,14 @@
+Company: TechNova
+
+Office location: Kannur, Kerala.
+
+Working hours: 9 AM to 6 PM, Monday to Friday.
+
+Employees receive 12 casual leaves per year.
+
+Customer support email: support@technova.example
+
+Driver onboarding requires four documents:
+Driver License, Aadhaar Card, PAN Card, and Police Clearance Certificate (PCC).
+
+Drivers must complete document submission before continuing with onboarding.
